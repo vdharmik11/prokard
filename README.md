@@ -31,6 +31,7 @@ Run the PROKARD.py file and click on file, locate and select the Excel file, the
 submit button. Once the mailing process will be completed, the sender will be notified that the mails have been sent successfully !
   
 <b>Standalone executable file for Windows:</b>  
+  
 To generate standalone .exe file, run setup.py - This will include all the above mentioned required libraries in the executable package and can be ported to any Windows PC.   
   
 For further details or to see the graphical workflow of the PROKARD, check the PDF provided in the repository.
