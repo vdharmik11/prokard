@@ -18,6 +18,11 @@ The PROKARD is a python based Progress Report Card Generating and Mailing System
 fromatted excel file containing various types of data of students along with their mail address, a sender with a mail address 
 (less secure enabled in case of Gmail) and password can generate progress card and mail it with just a click !  
   
+<b>Required Libraries:</b>  
+* pandas  
+* openpyxl  
+* xlrd  
+  
 <b>Usage:</b>  
   
 A predefined excel file with sample data is available with this repository, download it and make all necessary modification required. 
