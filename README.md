@@ -22,13 +22,17 @@ fromatted excel file containing various types of data of students along with the
 * pandas  
 * openpyxl  
 * xlrd  
+* cx_Freeze
   
 <b>Usage:</b>  
   
 A predefined excel file with sample data is available with this repository, download it and make all necessary modification required. 
 Run the PROKARD.py file and click on file, locate and select the Excel file, then provided Sender's Email address and password and press
 submit button. Once the mailing process will be completed, the sender will be notified that the mails have been sent successfully !
-
+  
+<b>Standalone executable file for Windows:</b>  
+To generate standalone .exe file, run setup.py - This will include all the above mentioned required libraries in the executable package and can be ported to any Windows PC.   
+  
 For further details or to see the graphical workflow of the PROKARD, check the PDF provided in the repository.
 
 <b>Note:</b> Format regarding Excel File which has to be followed strictly, otherwise mismatching/empty cell value will lead to errors 
