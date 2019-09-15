@@ -30,7 +30,7 @@ A predefined excel file with sample data is available with this repository, down
 Run the PROKARD.py file and click on file, locate and select the Excel file, then provided Sender's Email address and password and press
 submit button. Once the mailing process will be completed, the sender will be notified that the mails have been sent successfully !
   
-<b>Standalone executable file for Windows:</b>  
+<h3><b>Standalone executable file for Windows:</b></h3> 
   
 To generate standalone .exe file, run setup.py - This will include all the above mentioned required libraries in the executable package and can be ported to any Windows PC.   
   
